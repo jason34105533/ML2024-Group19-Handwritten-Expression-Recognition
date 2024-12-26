@@ -1,1 +1,0 @@
-b'./2+4.jpg' \int \sin \beta d x 
