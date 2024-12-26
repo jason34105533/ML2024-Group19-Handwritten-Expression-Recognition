@@ -30,7 +30,7 @@ Direct execute `./model.py` then wait for the program to initialize and load che
 
 Then the GUI should pop up.
 
-![image](https://hackmd.io/_uploads/S1mK429rye.png)
+![image](https://i.imgur.com/IzOBCJy.png)
 
 Save: Save the current canva to "OutputFile.jpg".
 Clean: Erase all the stroke on canva.
