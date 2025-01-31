@@ -24,6 +24,7 @@ Download the two required file on this [link](https://drive.google.com/drive/fol
 
 And copy the files into `/checkpoints/train`, then you could start using the application.
 
+
 ### Instructions
 
 Direct execute `./model.py` then wait for the program to initialize and load checkpoint into the model.
@@ -41,6 +42,7 @@ In Tool Control section, you could adjust the width of your stroke and eraser.
 In Draw Tool section, you're able to change your selected tool.
 
 Also,we've provide different color scheme of the app and different window size if you wish.
+
 
 
 
